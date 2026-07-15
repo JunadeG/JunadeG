@@ -1,22 +1,28 @@
-<div align="center">
-  
-  # Hi there, I'm Junade Govender 👋
-  
-  <a href="https://github.com/JunadeG">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=278CFF&center=true&vCenter=true&random=false&width=600&lines=Software+Developer+%40+Easyfind;Self-Taught+Java+Full-Stack+Dev;Backend+Architecture+%7C+Spring+Boot;Frontend+Design+%7C+React" alt="Typing SVG" />
-  </a>
-  
-  <p align="center">
-    <b>Backend software developer focused on building robust APIs, scaling microservices, and writing bulletproof automation.</b>
-  </p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <!-- Left Column: The Intro -->
+    <td valign="top" width="55%" style="border: none; padding-right: 20px;">
+      <h1 align="left" style="border: none; margin-bottom: 5px;">Hi there, I'm Junade Govender 👋</h1>
+      <p align="left" style="margin-top: 0;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=278CFF&center=false&vCenter=true&random=false&width=450&lines=Software+Developer+%40+Easyfind;Self-Taught+Java+Full-Stack+Dev;Backend+Architecture+%7C+Spring+Boot;E2E+Automation+%7C+Selenium" alt="Typing SVG" />
+      </p>
+      <p align="left">
+        I'm a backend software developer focused on building high-performance APIs, secure system architectures, and robust automation frameworks. I specialize in the Java/Spring Boot ecosystem but love diving into frontend and automation tooling to build complete, end-to-end solutions.
+      </p>
+      <p align="left" style="margin-top: 15px;">
+        <a href="https://linkedin.com/in/junade-govender-39ba092a3" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </p>
+    </td>
+    <!-- Right Column: Dynamic Trophy Case -->
+    <td valign="middle" width="45%" style="border: none; padding-left: 10px;" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=JunadeG&theme=tokyonight&column=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" width="380" />
+    </td>
+  </tr>
+</table>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/junade-govender-39ba092a3" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
-
-</div>
+---
 
 ---
 
