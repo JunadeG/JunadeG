@@ -72,22 +72,21 @@
   <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
 
-### Current Development Focus
+### Featured Architecture
 
-```text
-Enterprise HRMS
-├── Multi-Tenant Architecture
-├── Payroll Automation
-├── Attendance Tracking
-├── JWT Authentication
-├── Email Queueing
-└── React Frontend Integration
+<div align="center">
+  <a href="https://github.com/JunadeG">
+    <img src="./assets/project-hrms.svg?v=1" width="48%" alt="HRMS Project" />
+  </a>
+  <a href="https://github.com/JunadeG">
+    <img src="./assets/project-api.svg?v=1" width="48%" alt="REST API Project" />
+  </a>
+</div>
 
-Infrastructure & Continuous Learning
-├── Docker & Containerization
-├── Kubernetes
-├── Spring Cloud
-└── AWS Cloud Services
+<br>
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
 ```
 
 <div align="center">
