@@ -61,21 +61,13 @@
 
 ### Technical Arsenal
 
-**Backend & Architecture**
+<div align="center">
+  <img src="./assets/tech-backend.svg" width="100%" alt="Backend Tech Stack" />
+  <br><br>
+  <img src="./assets/tech-frontend.svg" width="100%" alt="Frontend and Tooling Stack" />
+</div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Frontend & Tooling**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
+<br>
 <div align="center">
   <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
