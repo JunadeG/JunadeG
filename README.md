@@ -93,6 +93,19 @@
   <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
 
+### GitHub Activity Grid
+
+<div align="center">
+  <picture>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/JunadeG/JunadeG/output/github-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+<br>
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
+
 ### Engineering Philosophy
 
 I design software that is secure by default, easy to maintain, and built for long-term scalability—not just to solve today's problem, but to support tomorrow's growth.
