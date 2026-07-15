@@ -117,10 +117,10 @@ I design software that is secure by default, easy to maintain, and built for lon
 
 <div align="center">
   <a href="https://github.com/JunadeG">
-    <img src="https://github-readme-stats.vercel.app/api?username=JunadeG&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB&text_bold=false" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JunadeG&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB&text_bold=false&cache_seconds=86400" height="195" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/JunadeG">
-    <img src="https://streak-stats.demolab.com/?user=JunadeG&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB&sideNums=8B949E&sideLabels=8B949E&ring=1F6FEB&fire=1F6FEB&currStreakLabel=8B949E&currStreakNum=8B949E" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunadeG&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB&sideNums=8B949E&sideLabels=8B949E&ring=1F6FEB&fire=1F6FEB&currStreakLabel=8B949E&currStreakNum=8B949E" height="195" alt="GitHub Streak" />
   </a>
 </div>
 
