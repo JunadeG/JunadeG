@@ -87,7 +87,7 @@
 <div align="center">
   <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
-```
+
 
 <div align="center">
   <img src="./assets/divider.svg" width="100%" alt="divider" />
