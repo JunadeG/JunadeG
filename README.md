@@ -30,29 +30,29 @@
 ### Developer Console
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  > whoami                                                   │
-│                                                             │
-│    Junade Govender                                          │
-│                                                             │
-│  > role                                                     │
-│                                                             │
-│    Software Developer @ Easyfind                            │
-│                                                             │
-│  > location                                                 │
-│                                                             │
-│    Johannesburg, South Africa                               │
-│                                                             │
-│  > focus                                                    │
-│                                                             │
-│    • Backend Architecture                                   │
-│    • Spring Boot Ecosystem                                  │
-│    • Secure REST APIs                                       │
-│    • PostgreSQL Databases                                   │
-│    • Selenium Automation                                    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+        ┌─────────────────────────────────────────────────────────────┐
+        │                                                             │
+        │  > whoami                                                   │
+        │                                                             │
+        │    Junade Govender                                          │
+        │                                                             │
+        │  > role                                                     │
+        │                                                             │
+        │    Software Developer @ Easyfind                            │
+        │                                                             │
+        │  > location                                                 │
+        │                                                             │
+        │    Johannesburg, South Africa                               │
+        │                                                             │
+        │  > focus                                                    │
+        │                                                             │
+        │    • Backend Architecture                                   │
+        │    • Spring Boot Ecosystem                                  │
+        │    • Secure REST APIs                                       │
+        │    • PostgreSQL Databases                                   │
+        │    • Selenium Automation                                    │
+        │                                                             │
+        └─────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -107,10 +107,6 @@ I design software that is secure by default, easy to maintain, and built for lon
 
 **Core Principles:**  
 `Secure` • `Fast` • `Modular` • `Fully Tested` • `Production Ready` • `Maintainable`
-
-<div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
-</div>
 
 <div align="center">
   <img src="./assets/divider.svg" width="100%" alt="divider" />
