@@ -1,26 +1,55 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
-  <tr style="border: none;">
-    <!-- Left Column: The Intro -->
-    <td valign="top" width="55%" style="border: none; padding-right: 20px;">
-      <h1 align="left" style="border: none; margin-bottom: 5px;">Hi there, I'm Junade Govender 👋</h1>
-      <p align="left" style="margin-top: 0;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=278CFF&center=false&vCenter=true&random=false&width=450&lines=Software+Developer+%40+Easyfind;Self-Taught+Java+Full-Stack+Dev;Backend+Architecture+%7C+Spring+Boot;E2E+Automation+%7C+Selenium" alt="Typing SVG" />
-      </p>
-      <p align="left">
-        I'm a backend software developer focused on building high-performance APIs, secure system architectures, and robust automation frameworks. I specialize in the Java/Spring Boot ecosystem but love diving into frontend and automation tooling to build complete, end-to-end solutions.
-      </p>
-      <p align="left" style="margin-top: 15px;">
-        <a href="https://linkedin.com/in/junade-govender-39ba092a3" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-      </p>
-    </td>
-    <!-- Right Column: Dynamic Trophy Case -->
-    <td valign="middle" width="45%" style="border: none; padding-left: 10px;" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=JunadeG&theme=tokyonight&column=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" width="380" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- Minimalist, high-reliability header banner -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&secondaryColor=1E222B&height=180&section=header&text=JUNADE%20GOVENDER&fontSize=55&fontColor=278CFF&animation=fadeIn&subText=Software%20Developer&subTextSize=18&subTextColor=858585" width="100%" alt="Header Banner" />
+  
+  <br/>
+
+  <!-- The Typing SVG -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=278CFF&center=true&vCenter=true&random=false&width=500&lines=Software+Developer+%40+Easyfind;Self-Taught+Java+Full-Stack+Dev;Backend+Architecture+%7C+Spring+Boot;E2E+Automation+%7C+Selenium" alt="Typing SVG" />
+  </p>
+
+  <br/>
+
+  <!-- Interactive Developer Terminal (100% Native HTML, Zero API Dependency) -->
+  <table width="640px" style="border-collapse: collapse; border: none;">
+    <tr>
+      <!-- Terminal Window Header -->
+      <td bgcolor="#1E1E1E" style="border-top-left-radius: 8px; border-top-right-radius: 8px; padding: 10px 15px; border: 1px solid #30363d; border-bottom: none; line-height: 1;">
+        <span style="color: #FF5F56; font-size: 18px; margin-right: 4px;">●</span>
+        <span style="color: #FFBD2E; font-size: 18px; margin-right: 4px;">●</span>
+        <span style="color: #27C93F; font-size: 18px; margin-right: 4px;">●</span>
+        <span style="color: #8B949E; margin-left: 15px; font-family: 'Fira Code', monospace; font-size: 13px;">junadeg@easyfind:~</span>
+      </td>
+    </tr>
+    <tr>
+      <!-- Terminal Window Body -->
+      <td bgcolor="#0D1117" style="border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; padding: 20px; border: 1px solid #30363d; font-family: 'Fira Code', monospace; font-size: 14px; line-height: 1.6;" align="left">
+        <span style="color: #58A6FF;">junadeg @ easyfind</span>:<span style="color: #34D058;">~</span>$ neofetch --developer<br/>
+        <br/>
+        <span style="color: #FF7B72;">⚡ PROFILE DETAILS ⚡</span><br/>
+        <span>---------------------------------------------</span><br/>
+        <span style="color: #D2A8FF;"><b>Location</b></span>     : Germiston, South Africa 🇿🇦<br/>
+        <span style="color: #58A6FF;"><b>Current Role</b></span> : Software Developer @ Easyfind<br/>
+        <span style="color: #58A6FF;"><b>Background</b></span>   : Self-Taught Backend Engineer<br/>
+        <span style="color: #58A6FF;"><b>Speciality</b></span>   : Scalable REST APIs & Automated Test Suites<br/>
+        <span style="color: #58A6FF;"><b>Core Stack</b></span>   : Java • Spring Boot • React • PostgreSQL • Selenium<br/>
+        <span>---------------------------------------------</span><br/>
+        <span style="color: #79C0FF;"><b>Status</b></span>       : Building secure, production-grade microservices.<br/>
+        <span style="color: #FF7B72;"><b>Quote</b></span>        : <i style="color: #8B949E;">"If it's worth building, it's worth testing."</i>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/junade-govender-39ba092a3" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
