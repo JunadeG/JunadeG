@@ -29,31 +29,31 @@
 
 ### Developer Console
 
-                                      ```text
-                                              ┌─────────────────────────────────────────────────────────────┐
-                                              │                                                             │
-                                              │  > whoami                                                   │
-                                              │                                                             │
-                                              │    Junade Govender                                          │
-                                              │                                                             │
-                                              │  > role                                                     │
-                                              │                                                             │
-                                              │    Software Developer @ Easyfind                            │
-                                              │                                                             │
-                                              │  > location                                                 │
-                                              │                                                             │
-                                              │    Johannesburg, South Africa                               │
-                                              │                                                             │
-                                              │  > focus                                                    │
-                                              │                                                             │
-                                              │    • Backend Architecture                                   │
-                                              │    • Spring Boot Ecosystem                                  │
-                                              │    • Secure REST APIs                                       │
-                                              │    • PostgreSQL Databases                                   │
-                                              │    • Selenium Automation                                    │
-                                              │                                                             │
-                                              └─────────────────────────────────────────────────────────────┘
-                                      ```
+                                    ```text
+                                            ┌─────────────────────────────────────────────────────────────┐
+                                            │                                                             │
+                                            │  > whoami                                                   │
+                                            │                                                             │
+                                            │    Junade Govender                                          │
+                                            │                                                             │
+                                            │  > role                                                     │
+                                            │                                                             │
+                                            │    Software Developer @ Easyfind                            │
+                                            │                                                             │
+                                            │  > location                                                 │
+                                            │                                                             │
+                                            │    Johannesburg, South Africa                               │
+                                            │                                                             │
+                                            │  > focus                                                    │
+                                            │                                                             │
+                                            │    • Backend Architecture                                   │
+                                            │    • Spring Boot Ecosystem                                  │
+                                            │    • Secure REST APIs                                       │
+                                            │    • PostgreSQL Databases                                   │
+                                            │    • Selenium Automation                                    │
+                                            │                                                             │
+                                            └─────────────────────────────────────────────────────────────┘
+                                    ```text
 
 <div align="center">
   <img src="./assets/divider.svg" width="100%" alt="divider" />
