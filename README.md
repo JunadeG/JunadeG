@@ -1,17 +1,17 @@
 <div align="center">
   
-  # Hi there, I'm Junade 👋
+  # Hi there, I'm Junade Govender 👋
   
   <a href="https://github.com/JunadeG">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=278CFF&center=true&vCenter=true&random=false&width=600&lines=Software+Developer+%40+Easyfind;Self-Taught+Java+Full-Stack+Dev;Backend+Architecture+%7C+Spring+Boot;Frontend+Design+%7C+React" alt="Typing SVG" />
   </a>
   
   <p align="center">
-    Building secure, scalable backend systems and intuitive frontends. Strong advocate for automated testing and clean architecture.
+    <b>Backend software developer focused on building robust APIs, scaling microservices, and writing bulletproof automation.</b>
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/junade-govender-39ba092a3">
+    <a href="https://linkedin.com/in/junade-govender-39ba092a3" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
@@ -20,82 +20,86 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Ecosystem & Tooling
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+I design backend systems that scale, secure them with modern protocols, and wrap them in robust automated test suites.
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Core** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" /> |
+| **Frontend & Web** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
+| **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /> |
+| **Quality Assurance** | <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" /> <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" /> |
+| **Tools & Infrastructure** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> |
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 Production & Featured Projects
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunadeG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunadeG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<details>
+<details open>
   <summary><b>🏢 Enterprise HRMS (Human Resource Management System)</b></summary>
   <br/>
-  <blockquote>
-    A multi-tenant platform for managing organizational workflows. Features automated payroll and tax calculations, a full KYC/onboarding pipeline, and real-time attendance tracking. Includes a custom Data Seeder for instant system demonstration.
-  </blockquote>
-  <p><b>Tech:</b> <code>Java</code> <code>Spring Boot</code> <code>React</code> <code>PostgreSQL</code> <code>JWT</code> <code>SMTP (Mailtrap)</code></p>
+  
+  > **A fully realized, multi-tenant HR platform** featuring automated South African tax/payroll calculators, an end-to-end user KYC onboarding pipeline, real-time attendance tracking, and a built-in automated database seeder for demonstrations.
+  
+  - **Architecture:** Multi-tenant database isolation, custom JWT token management, asynchronous mail queuing with SMTP.
+  - **Stack:** `Java` • `Spring Boot` • `React` • `PostgreSQL` • `Spring Data JPA` • `Mailtrap`
 </details>
 
 <details>
-  <summary><b>🔐 Secure Note-Taking API</b></summary>
+  <summary><b>🔐 Secure Note-Taking REST API</b></summary>
   <br/>
-  <blockquote>
-    A secure REST API featuring robust token-based authentication (JWT), password hashing (BCrypt), and role-based data isolation.
-  </blockquote>
-  <p><b>Tech:</b> <code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>JWT</code> <code>PostgreSQL</code></p>
-</details>
-
-<details>
-  <summary><b>🤖 Full-Stack Login & Automation Suite</b></summary>
-  <br/>
-  <blockquote>
-    A complete registration/login system paired with an automated End-to-End (E2E) test suite that drives a real browser to verify functionality.
-  </blockquote>
-  <p><b>Tech:</b> <code>Java</code> <code>Selenium WebDriver</code> <code>Spring Boot</code> <code>React</code></p>
+  
+  > **A high-security, role-isolated backend** built to prevent data leaks. Features password hashing (BCrypt), JWT-based session expiration, and custom middleware to strictly enforce user data boundaries.
+  
+  - **Key Implementations:** Stateless session policies, CORS configuration, custom security filters.
+  - **Stack:** `Java` • `Spring Boot` • `Spring Security` • `PostgreSQL` • `JWT`
 </details>
 
 <details>
   <summary><b>🛍️ E-Commerce Backend API</b></summary>
   <br/>
-  <blockquote>
-    Modeled complex database relationships (@ManyToMany) between products and orders, using Data Transfer Objects (DTOs) for clean API design.
-  </blockquote>
-  <p><b>Tech:</b> <code>Java</code> <code>Spring Boot</code> <code>JPA</code> <code>Lombok</code></p>
+  
+  > **A clean, standard relational backend** modeling complex database mappings like `@ManyToMany` between product catalogs and client order flows. Focuses on strong architectural patterns.
+  
+  - **Key Implementations:** Strict separation of concerns using Data Transfer Objects (DTOs), transactional database constraints, and dry codebase patterns.
+  - **Stack:** `Java` • `Spring Boot` • `Spring Data JPA` • `Lombok` • `PostgreSQL`
 </details>
 
 <details>
-  <summary><b>📝 Full-Stack To-Do App (TDD)</b></summary>
+  <summary><b>🤖 Automated E2E Authentication Tester</b></summary>
   <br/>
-  <blockquote>
-    A component-based React UI connected to a Test-Driven Development (TDD) backend, featuring unit tests for all business logic.
-  </blockquote>
-  <p><b>Tech:</b> <code>React</code> <code>Spring Boot</code> <code>JUnit 5</code> <code>Mockito</code></p>
+  
+  > **A dedicated testing framework** showcasing Page Object Model (POM) design patterns. Automates real-browser execution to verify registration pipelines, state validation, and boundary-value edge cases.
+  
+  - **Quality Assurance:** Written using Test-Driven Development (TDD) concepts, isolating test data and utilizing automated reporting hooks.
+  - **Stack:** `Java` • `Selenium WebDriver` • `JUnit 5` • `Spring Boot` • `React`
+</details>
+
+<details>
+  <summary><b>📝 Full-Stack To-Do App (TDD-Driven)</b></summary>
+  <br/>
+  
+  > **A task management app** built to demonstrate tight API integration testing. Every single business layer and endpoint has a companion Mockito-driven unit test verifying state transitions.
+  
+  - **Quality Assurance:** Full mock isolation, unit and integration suites, cleanly coupled to a modular React UI.
+  - **Stack:** `React` • `Spring Boot` • `JUnit 5` • `Mockito`
 </details>
 
 ---
 
+### 🕹️ Interactive Contribution Arena
+
+This snake is actively eating my contribution commits in real-time! 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunadeG/JunadeG/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JunadeG/JunadeG/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/JunadeG/JunadeG/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 <div align="center">
-  <i>Let's connect and build something awesome!</i>
+  <sub>Built with high-quality backend patterns & continuous automation. Let's connect!</sub>
 </div>
