@@ -116,8 +116,12 @@ I design software that is secure by default, easy to maintain, and built for lon
 ### GitHub Metrics
 
 <p align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunadeG&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB&text_bold=false)](https://github.com/JunadeG)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=JunadeG&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB&sideNums=8B949E&sideLabels=8B949E&ring=1F6FEB&fire=1F6FEB&currStreakLabel=8B949E&currStreakNum=8B949E)](https://github.com/JunadeG)
+  <a href="https://github.com/JunadeG">
+    <img src="https://github-readme-stats.vercel.app/api?username=JunadeG&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=58A6FF&amp;text_color=8B949E&amp;icon_color=1F6FEB&amp;text_bold=false" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/JunadeG">
+    <img src="https://streak-stats.demolab.com/?user=JunadeG&amp;theme=transparent&amp;hide_border=true&amp;title_color=58A6FF&amp;text_color=8B949E&amp;icon_color=1F6FEB&amp;sideNums=8B949E&amp;sideLabels=8B949E&amp;ring=1F6FEB&amp;fire=1F6FEB&amp;currStreakLabel=8B949E&amp;currStreakNum=8B949E" alt="GitHub Streak" />
+  </a>
 </p>
 
 <div align="center">
