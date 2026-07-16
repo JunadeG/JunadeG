@@ -26,6 +26,17 @@
 
 </div>
 
+### REST Client API Console
+
+<div align="center">
+  <img src="./assets/api-console.svg?v=1" width="100%" alt="REST API Client Mockup" />
+</div>
+
+<br>
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
+
 ### Developer Console
 
                                     
