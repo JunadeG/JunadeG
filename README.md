@@ -61,6 +61,14 @@
 </div>
 
 <br>
+
+<div align="center">
+  <img src="./assets/service-monitor.svg?v=1" width="100%" alt="System Telemetry Monitor" />
+  <br><br>
+  <img src="./assets/system-architecture.svg?v=1" width="100%" alt="System Architecture Blueprint" />
+</div>
+
+<br>
 ### Technical Arsenal
 
 <div align="center">
