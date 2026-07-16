@@ -52,12 +52,15 @@
                                 │    • Selenium Automation                                    │
                                 │                                                             │
                                 └─────────────────────────────────────────────────────────────┘
+
+                                
                                 
 
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
+  <img src="./assets/service-monitor.svg?v=1" width="100%" alt="System Telemetry Monitor" />
 </div>
 
+<br>
 ### Technical Arsenal
 
 <div align="center">
