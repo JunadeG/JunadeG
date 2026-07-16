@@ -130,3 +130,11 @@ I design software that is secure by default, easy to maintain, and built for lon
   <br>
   <p style="color: #8B949E; font-size: 14px;">Building software that solves real business problems.</p>
 </div>
+<div align="center">
+  <img src="./assets/test-suite.svg?v=1" width="100%" alt="JUnit and Selenium Test Suite" />
+</div>
+
+<br>
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
