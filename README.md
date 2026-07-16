@@ -29,29 +29,29 @@
 ### Developer Console
 
                                     
-                                        ┌─────────────────────────────────────────────────────────────┐
-                                        │                                                             │
-                                        │  > whoami                                                   │
-                                        │                                                             │
-                                        │    Junade Govender                                          │
-                                        │                                                             │
-                                        │  > role                                                     │
-                                        │                                                             │
-                                        │    Software Developer @ Easyfind                            │
-                                        │                                                             │
-                                        │  > location                                                 │
-                                        │                                                             │
-                                        │    Johannesburg, South Africa                               │
-                                        │                                                             │
-                                        │  > focus                                                    │
-                                        │                                                             │
-                                        │    • Backend Architecture                                   │
-                                        │    • Spring Boot Ecosystem                                  │
-                                        │    • Secure REST APIs                                       │
-                                        │    • PostgreSQL Databases                                   │
-                                        │    • Selenium Automation                                    │
-                                        │                                                             │
-                                        └─────────────────────────────────────────────────────────────┘
+                                ┌─────────────────────────────────────────────────────────────┐
+                                │                                                             │
+                                │  > whoami                                                   │
+                                │                                                             │
+                                │    Junade Govender                                          │
+                                │                                                             │
+                                │  > role                                                     │
+                                │                                                             │
+                                │    Software Developer @ Easyfind                            │
+                                │                                                             │
+                                │  > location                                                 │
+                                │                                                             │
+                                │    Johannesburg, South Africa                               │
+                                │                                                             │
+                                │  > focus                                                    │
+                                │                                                             │
+                                │    • Backend Architecture                                   │
+                                │    • Spring Boot Ecosystem                                  │
+                                │    • Secure REST APIs                                       │
+                                │    • PostgreSQL Databases                                   │
+                                │    • Selenium Automation                                    │
+                                │                                                             │
+                                └─────────────────────────────────────────────────────────────┘
                                 
 
 <div align="center">
