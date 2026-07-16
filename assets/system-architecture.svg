@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="100%" height="260">
+  <defs>
+    <!-- Background Gradient for Nodes -->
+    <linearGradient id="nodeBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B22" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+
+    <!-- Glowing Accents -->
+    <linearGradient id="blueGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0.8"/>
+    </linearGradient>
+
+    <style>
+      .arch-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; fill: #8B949E; font-size: 12px; }
+      .node-title { fill: #FFFFFF; font-weight: bold; font-size: 13px; }
+      .node-tech { fill: #58A6FF; font-family: 'JetBrains Mono', Consolas, monospace; font-size: 11px; }
+      
+      /* Static connector lines */
+      .connector {
+        stroke: #30363D;
+        stroke-width: 2;
+        fill: none;
+      }
+
+      /* Animated glowing data packet flows */
+      .packet-flow {
+        stroke: #58A6FF;
+        stroke-width: 2;
+        stroke-dasharray: 8 30;
+        fill: none;
+        animation: flow-animation 3s linear infinite;
+      }
+
+      @keyframes flow-animation {
+        to {
+          stroke-dashoffset: -76;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Main Container -->
+  <rect x="5" y="5" width="790" height="250" rx="8" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+
+  <!-- Section Title -->
+  <text x="25" y="30" class="arch-text" style="font-weight: bold; fill: #58A6FF; font-size: 11px; letter-spacing: 1.5px;">TYPICAL ENTERPRISE ARCHITECTURE BLUEPRINT</text>
+  <line x1="25" y1="40" x2="775" y2="40" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Connectors (Static Background Paths) -->
+  <path d="M 145 140 L 225 140" class="connector" />
+  <path d="M 345 140 L 425 140" class="connector" />
+  <path d="M 545 130 L 585 130 L 585 95 L 635 95" class="connector" />
+  <path d="M 545 150 L 585 150 L 585 185 L 635 185" class="connector" />
+
+  <!-- Connectors (Animated Data Flows) -->
+  <path d="M 145 140 L 225 140" class="packet-flow" />
+  <path d="M 345 140 L 425 140" class="packet-flow" />
+  <path d="M 545 130 L 585 130 L 585 95 L 635 95" class="packet-flow" />
+  <path d="M 545 150 L 585 150 L 585 185 L 635 185" class="packet-flow" style="animation-duration: 4s; animation-direction: reverse;" />
+
+  <!-- Node 1: Client Application (React / Mobile) -->
+  <rect x="25" y="90" width="120" height="100" rx="6" fill="url(#nodeBg)" stroke="#30363D" stroke-width="1.5"/>
+  <text x="85" y="125" text-anchor="middle" class="arch-text node-title">Client Layer</text>
+  <text x="85" y="145" text-anchor="middle" class="arch-text node-tech">React SPA</text>
+  <text x="85" y="165" text-anchor="middle" class="arch-text" style="font-size: 10px; fill: #8B949E;">REST / JSON</text>
+
+  <!-- Node 2: API Gateway & Security -->
+  <rect x="225" y="90" width="120" height="100" rx="6" fill="url(#nodeBg)" stroke="url(#blueGlow)" stroke-width="1.5"/>
+  <text x="285" y="125" text-anchor="middle" class="arch-text node-title">API Gateway</text>
+  <text x="285" y="145" text-anchor="middle" class="arch-text node-tech">Spring Security</text>
+  <text x="285" y="165" text-anchor="middle" class="arch-text" style="font-size: 10px; fill: #8B949E;">JWT Auth Layer</text>
+
+  <!-- Node 3: Core Business Logic Microservice -->
+  <rect x="425" y="90" width="120" height="100" rx="6" fill="url(#nodeBg)" stroke="url(#blueGlow)" stroke-width="1.5"/>
+  <text x="485" y="125" text-anchor="middle" class="arch-text node-title">Core Service</text>
+  <text x="485" y="145" text-anchor="middle" class="arch-text node-tech">Spring Boot</text>
+  <text x="485" y="165" text-anchor="middle" class="arch-text" style="font-size: 10px; fill: #8B949E;">Business Logic</text>
+
+  <!-- Node 4A: Relational Persistence (PostgreSQL) -->
+  <rect x="635" y="65" width="140" height="60" rx="6" fill="url(#nodeBg)" stroke="#30363D" stroke-width="1.5"/>
+  <text x="705" y="90" text-anchor="middle" class="arch-text node-title" style="font-size: 12px;">Primary DB</text>
+  <text x="705" y="108" text-anchor="middle" class="arch-text node-tech">PostgreSQL</text>
+
+  <!-- Node 4B: In-Memory / Task Queue (Redis / Queue) -->
+  <rect x="635" y="155" width="140" height="60" rx="6" fill="url(#nodeBg)" stroke="#30363D" stroke-width="1.5"/>
+  <text x="705" y="180" text-anchor="middle" class="arch-text node-title" style="font-size: 12px;">Caching &amp; Queue</text>
+  <text x="705" y="198" text-anchor="middle" class="arch-text node-tech">Redis / Memcached</text>
+</svg>
