@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="100%" height="320">
+  <defs>
+    <!-- Background Canvas -->
+    <linearGradient id="windowBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+
+    <!-- Style Definitions -->
+    <style>
+      .sys-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; fill: #8B949E; font-size: 12px; }
+      .json-text { font-family: 'JetBrains Mono', Consolas, monospace; font-size: 13px; }
+      
+      /* JSON Syntax Highlighting Colors */
+      .json-key { fill: #FF7B72; }     /* Red/Pink keys */
+      .json-string { fill: #A5D6FF; }  /* Light Blue string values */
+      .json-bracket { fill: #E1E4E8; } /* White brackets */
+      .json-keyword { fill: #FF7B72; } /* Red keywords */
+      .json-number { fill: #79C0FF; }  /* Dark Blue numbers */
+
+      /* Simulated Postman Elements */
+      .method-get { fill: #58A6FF; font-weight: bold; }
+      .url-bar { font-family: 'JetBrains Mono', monospace; fill: #C9D1D9; font-size: 12px; }
+      .badge-green { fill: #238636; }
+      .badge-text { font-family: -apple-system, sans-serif; font-weight: bold; font-size: 11px; fill: #FFFFFF; }
+      
+      /* Subtle glow on window frame */
+      .console-frame {
+        stroke: #30363D;
+        stroke-width: 1.5;
+        transition: stroke 0.3s ease;
+      }
+    </style>
+  </defs>
+
+  <!-- External Frame -->
+  <rect x="5" y="5" width="790" height="310" rx="10" fill="url(#windowBg)" class="console-frame"/>
+
+  <!-- OS Window Control Dots (Top Left) -->
+  <circle cx="25" cy="25" r="5" fill="#FF5F56"/>
+  <circle cx="41" cy="25" r="5" fill="#FFBD2E"/>
+  <circle cx="57" cy="25" r="5" fill="#27C93F"/>
+
+  <!-- REST Client Tab Headers -->
+  <rect x="120" y="10" width="160" height="30" rx="4" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+  <text x="140" y="29" class="sys-text" style="font-weight: bold; fill: #58A6FF;">GET /v1/developer</text>
+  <text x="255" y="29" class="sys-text" style="fill: #8B949E; font-family: monospace;">x</text>
+
+  <!-- Address Bar/Request Input -->
+  <rect x="25" y="55" width="750" height="36" rx="6" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+  <text x="45" y="77" class="url-bar method-get">GET</text>
+  <text x="90" y="77" class="url-bar">https://api.junade.dev/v1/profile</text>
+  
+  <!-- "Send" Button graphic -->
+  <rect x="690" y="61" width="75" height="24" rx="4" fill="#1F6FEB"/>
+  <text x="727" y="77" text-anchor="middle" class="sys-text" style="fill: #FFFFFF; font-weight: bold; font-size: 11px;">Send</text>
+
+  <!-- Response Headers/Meta Bar -->
+  <rect x="25" y="105" width="750" height="30" rx="4" fill="#0D1117" stroke="#30363D" stroke-width="0.5"/>
+  <text x="40" y="124" class="sys-text">Response Status:</text>
+  
+  <rect x="145" y="111" width="60" height="18" rx="3" class="badge-green"/>
+  <text x="175" y="124" text-anchor="middle" class="badge-text">200 OK</text>
+
+  <text x="225" y="124" class="sys-text">Time: <tspan style="fill: #58A6FF; font-weight: bold;">14 ms</tspan></text>
+  <text x="315" y="124" class="sys-text">Size: <tspan style="fill: #58A6FF; font-weight: bold;">524 B</tspan></text>
+
+  <!-- JSON Content Area Panel -->
+  <rect x="25" y="145" width="750" height="155" rx="6" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Code Block Syntax Highlighted Output -->
+  <g transform="translate(45, 175)" class="json-text">
+    <!-- Line 1 -->
+    <text x="0" y="0" class="json-bracket">{</text>
+    
+    <!-- Line 2 -->
+    <text x="20" y="20">
+      <tspan class="json-key">"status"</tspan><tspan class="json-bracket">: </tspan><tspan class="json-string">"ACTIVE_PRODUCTION"</tspan><tspan class="json-bracket">,</tspan>
+    </text>
+
+    <!-- Line 3 -->
+    <text x="20" y="40">
+      <tspan class="json-key">"identity"</tspan><tspan class="json-bracket">: </tspan><tspan class="json-string">"Junade Govender"</tspan><tspan class="json-bracket">,</tspan>
+    </text>
+
+    <!-- Line 4 -->
+    <text x="20" y="60">
+      <tspan class="json-key">"role"</tspan><tspan class="json-bracket">: </tspan><tspan class="json-string">"Software Developer @ Easyfind"</tspan><tspan class="json-bracket">,</tspan>
+    </text>
+
+    <!-- Line 5 -->
+    <text x="20" y="80">
+      <tspan class="json-key">"primary_stack"</tspan><tspan class="json-bracket">: [</tspan><tspan class="json-string">"Java"</tspan><tspan class="json-bracket">, </tspan><tspan class="json-string">"Spring Boot"</tspan><tspan class="json-bracket">, </tspan><tspan class="json-string">"PostgreSQL"</tspan><tspan class="json-bracket">],</tspan>
+    </text>
+
+    <!-- Line 6 -->
+    <text x="20" y="100">
+      <tspan class="json-key">"principles"</tspan><tspan class="json-bracket">: [</tspan><tspan class="json-string">"Secure_by_default"</tspan><tspan class="json-bracket">, </tspan><tspan class="json-string">"Scale_responsibly"</tspan><tspan class="json-bracket">]</tspan>
+    </text>
+
+    <!-- Line 7 -->
+    <text x="0" y="120" class="json-bracket">}</text>
+  </g>
+</svg>
