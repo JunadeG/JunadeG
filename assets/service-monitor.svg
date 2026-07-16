@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="100%" height="160">
+  <defs>
+    <!-- Grid Background Gradient -->
+    <linearGradient id="gridGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+
+    <style>
+      .mon-text { font-family: 'JetBrains Mono', Consolas, monospace; fill: #8B949E; font-size: 13px; }
+      .mon-val { fill: #58A6FF; font-weight: bold; }
+      .mon-label { fill: #C9D1D9; }
+      .status-green { fill: #3FB950; }
+      
+      /* Glowing heartbeat animation for the live status dot */
+      .pulse { animation: pulse-anim 2s infinite alternate; }
+      @keyframes pulse-anim {
+        0% { opacity: 0.3; }
+        100% { opacity: 1; }
+      }
+
+      /* Infinite scrolling effect for the network line graph */
+      .wave {
+        stroke: #58A6FF;
+        stroke-width: 1.5;
+        fill: none;
+        stroke-dasharray: 400;
+        stroke-dashoffset: 800;
+        animation: scroll-graph 6s linear infinite;
+      }
+      @keyframes scroll-graph {
+        to { stroke-dashoffset: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Main Dashboard Box -->
+  <rect x="5" y="5" width="790" height="150" rx="8" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+
+  <!-- Top Title Bar -->
+  <text x="25" y="30" class="mon-text" style="font-weight: bold; fill: #58A6FF; font-size: 11px; letter-spacing: 1.5px;">LIVE TELEMETRY MONITOR // JUNADE-CORE-SYSTEM</text>
+  <line x1="25" y1="40" x2="775" y2="40" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Left Column: JVM and System Status -->
+  <text x="25" y="65" class="mon-text mon-label">JVM Status:</text>
+  <circle cx="120" cy="61" r="5" class="status-green pulse"/>
+  <text x="135" y="65" class="mon-text" style="fill: #3FB950; font-weight: bold;">ACTIVE</text>
+
+  <text x="25" y="90" class="mon-text mon-label">Thread Pool:</text>
+  <text x="120" y="90" class="mon-text mon-val">OK [64 active]</text>
+
+  <text x="25" y="115" class="mon-text mon-label">GC Status:</text>
+  <text x="120" y="115" class="mon-text mon-val">NOMINAL (0.02s)</text>
+
+  <!-- Divider Line 1 -->
+  <line x1="280" y1="50" x2="280" y2="135" stroke="#30363D" stroke-width="1" stroke-dasharray="4"/>
+
+  <!-- Middle Column: API Metrics -->
+  <text x="310" y="65" class="mon-text mon-label">API Latency:</text>
+  <text x="420" y="65" class="mon-text mon-val">&lt; 34 ms</text>
+
+  <text x="310" y="90" class="mon-text mon-label">Uptime Ratio:</text>
+  <text x="420" y="90" class="mon-text mon-val">99.982%</text>
+
+  <text x="310" y="115" class="mon-text mon-label">Auth Layer:</text>
+  <text x="420" y="115" class="mon-text mon-val">JWT SECURED</text>
+
+  <!-- Divider Line 2 -->
+  <line x1="520" y1="50" x2="520" y2="135" stroke="#30363D" stroke-width="1" stroke-dasharray="4"/>
+
+  <!-- Right Column: Interactive Heartbeat Waveform -->
+  <text x="550" y="65" class="mon-text mon-label" style="font-size: 11px; letter-spacing: 1px; fill: #8B949E;">CORE SYSTEM HEARTBEAT</text>
+  
+  <!-- Graph Plot Background -->
+  <rect x="550" y="75" width="220" height="60" fill="url(#gridGrad)" stroke="#30363D" stroke-width="0.5" rx="4"/>
+  
+  <!-- Wave Path representing a real-time signal -->
+  <path d="M 550 110 L 580 110 L 590 85 L 600 135 L 610 110 L 640 110 L 650 95 L 660 120 L 670 110 L 710 110 L 720 80 L 730 130 L 740 110 L 770 110" class="wave"/>
+</svg>
