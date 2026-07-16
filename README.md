@@ -6,7 +6,6 @@
   </picture>
   <br>
 
-  # Junade Govender
 
   **Backend Engineer focused on building scalable, secure, and production-ready applications.**
 </div>
