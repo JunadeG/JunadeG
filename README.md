@@ -4,26 +4,26 @@
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner.svg">
     <img alt="Junade Govender Banner" src="./assets/banner.svg" width="100%">
   </picture>
-  <br>
+  
+  <br><br>
 
+  # Junade Govender
 
   **Backend Engineer focused on building scalable, secure, and production-ready applications.**
-</div>
 
-<div align="center">
+  <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/junade-govender-39ba092a3)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junade0708@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JunadeG)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0D1117)](https://linkedin.com/in/junade-govender-39ba092a3)
+  [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117)](mailto:junade0708@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117)](https://github.com/JunadeG)
 
-<br>
+  <br><br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer+%40+Easyfind;Java+Backend+Engineer;Spring+Boot+%7C+React+%7C+PostgreSQL;REST+API+Architecture;Security+Focused+Development;Automation+Testing+with+Selenium;Always+Learning+Something+New)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer+%40+Easyfind;Java+Backend+Engineer;Spring+Boot+%7C+React+%7C+PostgreSQL;REST+API+Architecture;Security+Focused+Development;Automation+Testing+with+Selenium;Always+Learning+Something+New)
 
-<br>
+  <br>
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
-
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
 
 ### REST Client API Console
@@ -39,102 +39,90 @@
 
 ### Developer Console
 
-                                    
-                                ┌─────────────────────────────────────────────────────────────┐
-                                │                                                             │
-                                │  > whoami                                                   │
-                                │                                                             │
-                                │    Junade Govender                                          │
-                                │                                                             │
-                                │  > role                                                     │
-                                │                                                             │
-                                │    Software Developer @ Easyfind                            │
-                                │                                                             │
-                                │  > location                                                 │
-                                │                                                             │
-                                │    Johannesburg, South Africa                               │
-                                │                                                             │
-                                │  > focus                                                    │
-                                │                                                             │
-                                │    • Backend Architecture                                   │
-                                │    • Spring Boot Ecosystem                                  │
-                                │    • Secure REST APIs                                       │
-                                │    • PostgreSQL Databases                                   │
-                                │    • Selenium Automation                                    │
-                                │                                                             │
-                                └─────────────────────────────────────────────────────────────┘
+text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  > whoami                                                   │
+│                                                             │
+│    Junade Govender                                          │
+│                                                             │
+│  > role                                                     │
+│                                                             │
+│    Software Developer @ Easyfind                            │
+│                                                             │
+│  > location                                                 │
+│                                                             │
+│    Johannesburg, South Africa                               │
+│                                                             │
+│  > focus                                                    │
+│                                                             │
+│    • Backend Architecture                                   │
+│    • Spring Boot Ecosystem                                  │
+│    • Secure REST APIs                                       │
+│    • PostgreSQL Databases                                   │
+│    • Selenium Automation                                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
-                                
-                                
 
-<div align="center">
-  <img src="./assets/service-monitor.svg?v=1" width="100%" alt="System Telemetry Monitor" />
-  <br><br>
-  <img src="./assets/system-architecture.svg?v=1" width="100%" alt="System Architecture Blueprint" />
-</div>
-
-<br>
-
-<br>
-### Technical Arsenal
 
 <div align="center">
-  <img src="./assets/tech-backend.svg" width="100%" alt="Backend Tech Stack" />
-  <br><br>
-  <img src="./assets/tech-frontend.svg" width="100%" alt="Frontend and Tooling Stack" />
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
-
+System Telemetry & Architecture
+<div align="center">
+<img src="./assets/service-monitor.svg?v=1" width="100%" alt="System Telemetry Monitor" />
+<br><br>
+<img src="./assets/system-architecture.svg?v=1" width="100%" alt="System Architecture Blueprint" />
+</div>
 <br>
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
-
-### Featured Architecture
-
+Technical Arsenal
 <div align="center">
-  <a href="https://github.com/JunadeG">
-    <img src="./assets/project-hrms.svg?v=1" width="48%" alt="HRMS Project" />
-  </a>
-  <a href="https://github.com/JunadeG">
-    <img src="./assets/project-api.svg?v=1" width="48%" alt="REST API Project" />
-  </a>
+<img src="./assets/tech-backend.svg" width="100%" alt="Backend Tech Stack" />
+<br><br>
+<img src="./assets/tech-frontend.svg" width="100%" alt="Frontend and Tooling Stack" />
 </div>
-
 <br>
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
-
-### GitHub Activity Grid
-
+Featured Architecture
 <div align="center">
-  <picture>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/JunadeG/JunadeG/output/github-snake-dark.svg" width="100%">
-  </picture>
+<a href="https://github.com/JunadeG">
+<img src="./assets/project-hrms.svg?v=1" width="48%" alt="HRMS Project" />
+</a>
+<a href="https://github.com/JunadeG">
+<img src="./assets/project-api.svg?v=1" width="48%" alt="REST API Project" />
+</a>
 </div>
-
 <br>
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
-
-### Engineering Philosophy
-
+GitHub Activity Grid
+<div align="center">
+<picture>
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/JunadeG/JunadeG/output/github-snake-dark.svg" width="100%">
+</picture>
+</div>
+<br>
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
+Engineering Philosophy
 I design software that is secure by default, easy to maintain, and built for long-term scalability—not just to solve today's problem, but to support tomorrow's growth.
-
-**Core Principles:**  
-`Secure` • `Fast` • `Modular` • `Fully Tested` • `Production Ready` • `Maintainable`
-
+Core Principles:
+Secure • Fast • Modular • Fully Tested • Production Ready • Maintainable
+<br><br>
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
-  <br>
-  <p style="color: #8B949E; font-size: 14px;">Building software that solves real business problems.</p>
+<img src="./assets/test-suite.svg?v=1" width="100%" alt="JUnit and Selenium Test Suite" />
 </div>
-<div align="center">
-  <img src="./assets/test-suite.svg?v=1" width="100%" alt="JUnit and Selenium Test Suite" />
-</div>
-
 <br>
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
+<img src="./assets/divider.svg" width="100%" alt="divider" />
+<br>
+<p style="color: #8B949E; font-size: 14px;">Building software that solves real business problems.</p>
 </div>
