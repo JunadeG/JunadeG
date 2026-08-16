@@ -5,8 +5,7 @@
     <img alt="Junade Govender Banner" src="./assets/banner.svg" width="100%">
   </picture>
   <br>
-
-
+  
   **Backend Engineer focused on building scalable, secure, and production-ready applications.**
 </div>
 
@@ -20,26 +19,15 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer+%40+Easyfind;Java+Backend+Engineer;Spring+Boot+%7C+React+%7C+PostgreSQL;REST+API+Architecture;Security+Focused+Development;Automation+Testing+with+Selenium;Always+Learning+Something+New)
 
-<br>
-
-<img src="./assets/divider.svg" width="100%" alt="divider" />
-
-</div>
-
-### REST Client API Console
-
-<div align="center">
-  <img src="./assets/api-console.svg?v=1" width="100%" alt="REST API Client Mockup" />
 </div>
 
 <br>
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
+  <img src="./assets/divider.svg" width="100%" alt="divider" onerror="this.style.display='none'"/>
 </div>
 
-### Developer Console
-
-                                    
+### 💻 Developer Console
+                                
                                 ┌─────────────────────────────────────────────────────────────┐
                                 │                                                             │
                                 │  > whoami                                                   │
@@ -64,49 +52,52 @@
                                 │                                                             │
                                 └─────────────────────────────────────────────────────────────┘
 
-                                
-                                
-
-<div align="center">
-  <img src="./assets/service-monitor.svg?v=1" width="100%" alt="System Telemetry Monitor" />
-  <br><br>
-  <img src="./assets/system-architecture.svg?v=1" width="100%" alt="System Architecture Blueprint" />
-</div>
-
-<br>
-
-<br>
-
-### Technical Arsenal
-
-<div align="center">
-  <img src="./assets/tech-backend.svg" width="100%" alt="Backend Tech Stack" />
-  <br><br>
-  <img src="./assets/tech-frontend.svg" width="100%" alt="Frontend and Tooling Stack" />
-</div>
-
 <br>
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
+  <img src="./assets/divider.svg" width="100%" alt="divider" onerror="this.style.display='none'"/>
 </div>
 
-### Featured Architecture
+### 🏆 GitHub Activity & Trophies
 
 <div align="center">
-  <a href="https://github.com/JunadeG">
-    <img src="./assets/project-hrms.svg?v=1" width="48%" alt="HRMS Project" />
-  </a>
-  <a href="https://github.com/JunadeG">
-    <img src="./assets/project-api.svg?v=1" width="48%" alt="REST API Project" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JunadeG&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Junade's Trophies" />
   </a>
 </div>
 
 <br>
+
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JunadeG&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunadeG&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
 </div>
 
-### GitHub Activity Grid
+<br>
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" onerror="this.style.display='none'"/>
+</div>
+
+### ⚙️ Technical Arsenal
+
+<div align="center">
+  <img src="./assets/tech-backend.svg" width="100%" alt="Backend Tech Stack" onerror="this.style.display='none'"/>
+  <br><br>
+  <img src="./assets/tech-frontend.svg" width="100%" alt="Frontend and Tooling Stack" onerror="this.style.display='none'"/>
+</div>
+
+*(If the visual tech stack above doesn't load, here is the core arsenal):*
+
+**Languages:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+**Backend:** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=Spring-Security&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)  
+**Database:** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
+**Testing:** ![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=flat&logo=selenium&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+
+<br>
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" onerror="this.style.display='none'"/>
+</div>
+
+### 📈 Contribution Grid
 
 <div align="center">
   <picture>
@@ -116,10 +107,10 @@
 
 <br>
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
+  <img src="./assets/divider.svg" width="100%" alt="divider" onerror="this.style.display='none'"/>
 </div>
 
-### Engineering Philosophy
+### 🧠 Engineering Philosophy
 
 I design software that is secure by default, easy to maintain, and built for long-term scalability—not just to solve today's problem, but to support tomorrow's growth.
 
@@ -127,15 +118,5 @@ I design software that is secure by default, easy to maintain, and built for lon
 `Secure` • `Fast` • `Modular` • `Fully Tested` • `Production Ready` • `Maintainable`
 
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
-  <br>
   <p style="color: #8B949E; font-size: 14px;">Building software that solves real business problems.</p>
-</div>
-<div align="center">
-  <img src="./assets/test-suite.svg?v=1" width="100%" alt="JUnit and Selenium Test Suite" />
-</div>
-
-<br>
-<div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
